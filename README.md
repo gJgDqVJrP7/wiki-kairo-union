@@ -14,6 +14,7 @@
 ## Index
 * [回連語録](./kairo-words/README.md)
 * [模擬戦用語](./mogi-words/README.md)
+* [レギュレーション一覧](./rules/README.md)
 
 ## Author
 
